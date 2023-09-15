@@ -1,5 +1,6 @@
 <img width="960" alt="Screenshot 2023-09-15 123508" src="https://github.com/kappu7571/Medicare-Helth-Management-Project/assets/113373968/a79b8a5c-65ec-4b74-8f44-ca84c23b45d9">
 <img width="960" alt="Screenshot 2023-09-15 143006" src="https://github.com/kappu7571/Medicare-Helth-Management-Project/assets/113373968/6d7768de-6a10-41e8-85cf-913ff991cb68">
+
 # Medicare-Helth-Management-Project
 This project is a Django-based web application for managing medications and health-related activities. 
 It allows users to keep track of their medications, set reminders, and log their daily activities.
