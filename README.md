@@ -16,6 +16,10 @@ Install the required dependencies: pip install -r requirements.txt
 Apply database migrations: python manage.py migrate
 Run the development server: python manage.py runserver
 The application will be accessible at  http://127.0.0.1:8000/
+# Interact Django Admin Pannel
+username=kapil.
+password=kapil123.
+start server= python manage.py runserver
 
 # API End Point
 API endpoints are available for interacting with the application:
