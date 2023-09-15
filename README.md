@@ -17,14 +17,23 @@ The application will be accessible at  http://127.0.0.1:8000/
 
 # API End Point
 API endpoints are available for interacting with the application:
+
 GET /medications/: Get a list of all medications.
+
 GET /reminders/: Get a list of all reminders.
-POST /medications/create/: Create a new medication.
+
+POST /medications/create/: Create a new medication
+.
 POST /reminders/create/: Create a new reminder.
+
 DELETE /medications/delete/<medication_id>/: Delete a medication.
+
 DELETE /reminders/delete/<reminder_id>/: Delete a reminder.
+
 GET /activities/: Get a list of all activities.
+
 POST /activities/log/: Log a new activity.
+
 DELETE /activities/delete/<log_id>/: Delete an activity log.
 
 # Credits
